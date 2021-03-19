@@ -1,0 +1,6 @@
+D:\Desktop\facultad\construccion de aplicaciones informaticas\practica_cai\PrimerEjercicio\PrimerEjercicio.recursos\bin\Debug\PrimerEjercicio.recursos.dll
+D:\Desktop\facultad\construccion de aplicaciones informaticas\practica_cai\PrimerEjercicio\PrimerEjercicio.recursos\bin\Debug\PrimerEjercicio.recursos.pdb
+D:\Desktop\facultad\construccion de aplicaciones informaticas\practica_cai\PrimerEjercicio\PrimerEjercicio.recursos\obj\Debug\PrimerEjercicio.recursos.csprojAssemblyReference.cache
+D:\Desktop\facultad\construccion de aplicaciones informaticas\practica_cai\PrimerEjercicio\PrimerEjercicio.recursos\obj\Debug\PrimerEjercicio.recursos.csproj.CoreCompileInputs.cache
+D:\Desktop\facultad\construccion de aplicaciones informaticas\practica_cai\PrimerEjercicio\PrimerEjercicio.recursos\obj\Debug\PrimerEjercicio.recursos.dll
+D:\Desktop\facultad\construccion de aplicaciones informaticas\practica_cai\PrimerEjercicio\PrimerEjercicio.recursos\obj\Debug\PrimerEjercicio.recursos.pdb
